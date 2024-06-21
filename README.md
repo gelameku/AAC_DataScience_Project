@@ -1,0 +1,1 @@
+For data science students, interview questions can be categorized into several key areas to assess their foundational knowledge, technical skills, and practical application abilities. Here are suggested categories
